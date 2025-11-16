@@ -1,32 +1,39 @@
-# Hi, I'm Rahit 👋
+Hi, I'm Rahit 👋
 
-**Curious builder, quiet thinker.** I enjoy creating thoughtful things—whether it's hardware that blinks or software that flows.
+Curious mind. Quiet builder.
+I like creating things that work—from tiny circuits to clean code.
 
-### 🛠️ What I'm Into
+🛠️ What I’m Into
 
-* Exploring electronics and embedded systems
-* Learning the guts of hardware (slowly, but surely)
-* Diving into Bengali literature and quiet books
-* Writing clean, maintainable things—one file at a time
+Electronics, hardware, and embedded systems
 
-### 🔧 Tools & Tech
+Learning how things function under the hood
 
-* Arduino, Raspberry Pi, basic circuits
-* **Languages:** Python, Java
-* **Editor of choice:** VS Code + a good keyboard = peace ✨
+Exploring literature and slow, meaningful books
 
-### 🌱 What I'm Working On
+Tech, cybersecurity, and thoughtful engineering
 
-* Documenting my electronics projects
-* Reading Bengali literature
-* Building small tools to solve real problems
+🔧 Tools & Tech
 
-### 🧭 Personal Philosophy
+Arduino, Raspberry Pi, basic circuits
 
-> “Small steps. Honest work. Quiet impact.”
+Languages: Python, Java
 
----
+Currently exploring: Cybersecurity & system fundamentals
 
-📝 I believe good tools and good thinking go hand in hand.
-📫 Reach out or follow along:rahit125pal@gmail.com
+Editor: VS Code + a comfortable keyboard = flow ✨
 
+🌱 What I’m Building
+
+Documenting my hardware and coding journey
+
+Making small tools that actually solve problems
+
+Learning consistently and shipping quietly
+
+🧭 Personal Philosophy
+
+“Small steps. Honest work. Quiet impact.”
+
+📝 I believe clarity in thinking creates clarity in building.
+📫 Contact: rahit125pal@gmail.com
